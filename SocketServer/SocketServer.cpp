@@ -4,6 +4,7 @@
 #include "framework.h"
 #include "SocketServer.h"
 #include "TcpServer.h"
+#include "Logger.h"
 
 #define MAX_LOADSTRING 100
 
